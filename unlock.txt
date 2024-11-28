@@ -45,6 +45,8 @@
 .disneyplus.com
 .bamgrid.com
 .dssott.com
+.dssedge.com
+.conviva.com
 
 # Max
 .brightline.tv
