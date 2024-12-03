@@ -67,7 +67,7 @@
 .hbomaxdash.s.llnwi.net
 
 # Reddit
-reddit.com
+.reddit.com
 
 # Others
 .mypikpak.com
