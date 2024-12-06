@@ -10,8 +10,7 @@
 .openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .openaicomproductionae4b.blob.core.windows.net
 .production-openaicom-storage.azureedge.net
-.sentry.io
-.imgix.net
+.azure.com
 
 # Netflix
 .fast.com
@@ -44,4 +43,6 @@
 .duolingo.com
 .duolingo.cn
 .reddit.com
+.sentry.io
+.imgix.net
 .mypikpak.com
