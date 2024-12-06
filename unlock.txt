@@ -40,47 +40,8 @@
 .amazonaws.com
 .netflix.com.edgesuite.net
 
-# Disney+
-.disney-plus.net
-.disneyplus.com
-.bamgrid.com
-.dssott.com
-.dssedge.com
-.conviva.com
-
-# Max
-.brightline.tv
-.cinemax.com
-.discomax.com
-.forthethrone.com
-.hbo.com
-.hbogo.com
-.hbomax.com
-.hbomaxcdn.com
-.hbonow.com
-.max.com
-.maxgo.com
-.hbo.com.c.footprint.net
-.hbo.com.edgesuite.net
-.hbo.map.fastly.net
-.hbomax-images.warnermediacdn.com
-.hbomaxdash.s.llnwi.net
-
-# Reddit
-.redd.it
-.reddit.app.link
-.reddit.com
-.redditblog.com
-.reddithelp.com
-.redditinc.com
-.redditmail.com
-.redditmedia.com
-.redditspace.com
-.redditstatic.com
-.redditstatus.com
-.reddit.map.fastly.net
-
 # Others
 .duolingo.com
 .duolingo.cn
+.reddit.com
 .mypikpak.com
