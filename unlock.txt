@@ -81,4 +81,6 @@
 .reddit.map.fastly.net
 
 # Others
+.duolingo.com
+.duolingo.cn
 .mypikpak.com
