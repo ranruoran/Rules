@@ -1,3 +1,8 @@
+# Media
+.tv.apple.com
+.youtube.com
+.googlevideo.com
+
 # OpenAI
 .ai.com
 .chatgpt.com
@@ -45,4 +50,3 @@
 .reddit.com
 .sentry.io
 .imgix.net
-.mypikpak.com
